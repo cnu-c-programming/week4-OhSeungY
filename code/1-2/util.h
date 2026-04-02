@@ -3,3 +3,4 @@
 static inline void logger(char* message) {
     printf("log: %s\n", message);
 }
+ 
