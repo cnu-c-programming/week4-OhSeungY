@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <ctype.h>
 
 void inc(int* x){
     if(x == NULL){
