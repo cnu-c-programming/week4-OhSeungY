@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <ctype.h>
 
 void swap_endian(int *x){
     unsigned char* addr = (unsigned char*)x;
