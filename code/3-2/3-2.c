@@ -21,4 +21,4 @@ int main() {
     printf("%x\n", x);
 
     return 0;
-}
+} 
