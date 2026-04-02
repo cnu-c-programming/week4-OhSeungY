@@ -12,3 +12,4 @@ void task2() {
         logger_global("task2");
     }
 }
+ 
